@@ -23,6 +23,11 @@
       "value": "yes",
       "required": false
     },
+    "AUTO_REPLY_STATUS": {
+      "description": "Enter yes for your bot to notify people that you have viewed there status",
+      "value": "no",
+      "required": false
+    },
     "AUTO_READ_STATUS": {
       "description": "Your status will be read automatically (type yes to activate or no to deactivate)",
       "value": "yes",
